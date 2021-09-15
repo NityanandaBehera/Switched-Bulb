@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.bulb{
+    background: #080a0e;
+    height: 100vh;
+    text-align: center;
+    padding: 8px;
+    color: white;
+    font-weight: bold;
+    }
+    .on{
+        
+        box-sizing: border-box;
+        border-radius: 10px;
+        padding-top: 12px;
+        color: aqua;
+        background:red;
+        padding-right: 12px;
+        cursor: pointer;
+    }
+    .off{
+        
+        box-sizing: border-box;
+        border-radius: 10px;
+        padding-top: 12px;
+        color: aqua;
+        background:red;
+        cursor: pointer;
+    }
+   #myImage{
+    padding-top: 20px;   
+    height: 600px;
+       width: 700px;
+   }
